@@ -19,7 +19,7 @@ Watch a video of Buttons in a testing environment [here](https://clipchamp.com/w
 
 ## Overview
 The optimisation strategies used encompass a 30 page report which, let's be honest, you probably don't care about.
-So instead I will outline some challenges we faced and how we overcame them:
+So instead I will outline some of the challenges we faced and how we overcame them:
 - Localisation with low quality sensors | Crosschecking and averaging between different sensor types
 - Mapping a dynamic environement from a moving system | Implemented Vector Fields Histograms
 - Efficient path planning around dynamic obstacles | Developed a custom tentacle approach
