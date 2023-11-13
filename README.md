@@ -3,7 +3,7 @@
 ## About
 Buttons was an autonomous, Raspberry Pi powered robot designed for a university competition.
 
-Code collaboration between Jackson Sprigg and Preet Patel. 
+Code collaboration between Jackson Sprigg and Preet Patel. Both of us acknowledge that the code should be much cleaner and wanted to refactor if given more time.
 
 ## The Challenge
 Buttons was required to:
