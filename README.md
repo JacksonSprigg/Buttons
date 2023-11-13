@@ -22,7 +22,7 @@ The optimisation strategies used encompass a 30 page report which, let's be hone
 So instead, I will outline some of the challenges we faced and how we overcame them:
 - Localisation with low-quality sensors | Crosschecking and averaging between different sensor types
 - Mapping a dynamic environment from a moving system | Implemented Vector Fields Histograms
-- Efficient path planning around dynamic obstacles | Developed a custom tentacle approach
+- Efficient path planning around dynamic obstacles | Developed a custom tentacle cost function
 - Building tests to monitor component health | Apparently hardcoding doesn't work when your low quality components slowly degrade and change values
 - Simulating test environments | Many hours spent deterrmining real world coefficients
 
