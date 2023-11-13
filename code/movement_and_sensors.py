@@ -1,3 +1,7 @@
+# Code by
+# Jackson Sprigg
+# Preet Patel
+
 import RPi.GPIO as GPIO
 import pigpio
 import time
