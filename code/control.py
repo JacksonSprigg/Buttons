@@ -1,3 +1,7 @@
+# Code by
+# Jackson Sprigg
+# Preet Patel
+
 # Controller for ECE4191 robot
 import time
 import math
