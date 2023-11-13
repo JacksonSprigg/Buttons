@@ -15,6 +15,8 @@ Buttons was required to:
 4. Deposit the packages and return to the loading zone
 5. Sustain this cycle for the duration of the competition without human inteference
 
+Watch a video of Buttons in a testing environment [here](https://clipchamp.com/watch/PpKLTU7v0G8).
+
 ## Overview
 The optimisation strategies used encompass a 30 page report which, let's be honest, you probably don't care about.
 So instead I will outline some challenges we faced and how we overcame them:
