@@ -5,6 +5,8 @@ Buttons was an autonomous, Raspberry Pi powered robot designed for a university 
 
 Code collaboration between Jackson Sprigg and Preet Patel. Both of us acknowledge that the code should be much cleaner and wanted to refactor if given more time.
 
+![Buttons](Buttons.png)
+
 ## The Challenge
 Buttons was required to:
 1. Await packages within a designated loading zone
